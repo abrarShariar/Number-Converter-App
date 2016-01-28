@@ -1,4 +1,4 @@
-# [Number-Converter-App] (http://abrarshariar.github.io/Number-Converter-App)
+# [Number-Converter-App] (http://abrarshariar.github.io/Number-Converter-App/)
 A Qt (C++) application for number conversion [decimal, hexaddecimal, binary, octal]
 
 [Download the application](https://github.com/abrarShariar/NumberConverter-App/archive/master.zip)
