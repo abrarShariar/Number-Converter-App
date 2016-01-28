@@ -1,7 +1,7 @@
-# [NumberConverter-App] ()
+# [Number-Converter-App] ()
 A Qt (C++) application for number conversion [decimal, hexaddecimal, binary, octal]
 
-[Download the application]()
+[Download the application](https://github.com/abrarShariar/NumberConverter-App/archive/master.zip)
 
 I know there are lots of tools available online for conversion between number system but I wanted to make a small and handy one for myself 
 so came up with this. <br>
@@ -42,7 +42,7 @@ Supported OS : *Windows*
 #For Code Geeks:
 
 The project source code is hosted [here](https://github.com/abrarShariar/NumConverter) <br>
-<br>Bug Reports/Suggestions/Criticism are welcome 
+Bug Reports/Suggestions/Criticism are welcome
 
 **Project maintained by:** [Abrar Shariar] (https://www.facebook.com/abrar1661)
 
