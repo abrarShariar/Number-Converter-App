@@ -42,7 +42,7 @@ Supported OS : *Windows*
 #For Code Geeks:
 
 The project source code is hosted [here](https://github.com/abrarShariar/NumConverter) <br>
-Bug Reports/Suggestions/Criticism are welcome
+Pull Requests/Bug Reports/Suggestions/Criticism are welcome
 
 **Project maintained by:** [Abrar Shariar] (https://www.facebook.com/abrar1661)
 
