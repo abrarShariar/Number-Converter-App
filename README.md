@@ -19,13 +19,13 @@ Currently the conversions support : <br>
 #How to use it :
 Its easy and simple to use
             
-           1)  Unzip the folder "NumberConverter-App" and open it
+           1)  Unzip the folder "Number-Converter-App" and open it
             
            2)  You will find the following file structure:
             
-                    ../NumberConverter-App/platforms/
-                    ../NumberConverter-App/Convert.exe
-                    ../NumberConverter-App/necessary_dlls
+                    ../Number-Converter-App/platforms/
+                    ../Number-Converter-App/Convert.exe
+                    ../Number-Converter-App/necessary_dlls
                     
             3) Leave Everything untouched
             
