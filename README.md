@@ -17,30 +17,41 @@ Currently the conversions support : <br>
           -Binary   *(base 2)*  <br>
           
 #How to use it :
-Its easy and simple to use
-            On windows:
+Its easy and simple to use<br>
+
+
+<h2>On Windows</h2>
+            
            1)  Unzip the folder "Number-Converter-App" and open it
+           
+           2) Enter the folder "Windows"
             
-           2)  You will find the following file structure:
+           3)  Inside the folder "Windows" you will find the following file structure:
             
-                    ../Number-Converter-App/platforms/
-                    ../Number-Converter-App/Convert.exe
-                    ../Number-Converter-App/necessary_dlls
+                    ../platforms/qwindows.dll
+                    ../Convert.exe
+                    ../necessary_dlls
                     
-            3) Leave Everything untouched
+            4) Leave Everything untouched
             
-            4) RUN Convert.exe 
+            5) RUN Convert.exe 
             
-            5) Congratulations !! You are ready to start converting your numbers
+            6) Congratulations !! You are ready to start converting your numbers
+            
 	
-	   On Linux
+	
+<h2> On Linux </h2>
+	   
            1)  Unzip the file and open it
+           
+           2) Enter the folder "Linux 64"
             
            2)  You will find the following file structure:
             
                     ../Number-Converter-App/QT_Libs/
                     ../Number-Converter-App/NumConverter
                     ../Number-Converter-App/Launch-NumConverter.sh
+                    
             3) Leave Everything untouched
             
             4) RUN Launch-NumConverter.sh or launch it from the terminal 
