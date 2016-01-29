@@ -18,7 +18,7 @@ Currently the conversions support : <br>
           
 #How to use it :
 Its easy and simple to use
-            
+            On windows:
            1)  Unzip the folder "Number-Converter-App" and open it
             
            2)  You will find the following file structure:
@@ -32,12 +32,27 @@ Its easy and simple to use
             4) RUN Convert.exe 
             
             5) Congratulations !! You are ready to start converting your numbers
+	
+	   On Linux
+           1)  Unzip the file and open it
+            
+           2)  You will find the following file structure:
+            
+                    ../Number-Converter-App/QT_Libs/
+                    ../Number-Converter-App/NumConverter
+                    ../Number-Converter-App/Launch-NumConverter.sh
+            3) Leave Everything untouched
+            
+            4) RUN Launch-NumConverter.sh or launch it from the terminal 
+            
+            5) Congratulations !! You are ready to start converting your numbers
+
             
 Currently the application supports upto 10^18 whole numbers
            
 #Platform
 
-Supported OS : *Windows*
+Supported OS : *Windows* and *Linux 64Bit*
            
 #For Code Geeks:
 
