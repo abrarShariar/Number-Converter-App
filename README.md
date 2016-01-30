@@ -1,6 +1,8 @@
 # [Number-Converter-App] (http://abrarshariar.github.io/Number-Converter-App/)
 A Qt (C++) application for number conversion [decimal, hexaddecimal, binary, octal]
 
+**NOTE:** This repository contains only the release version of the app. Check out the [Source Code](https://github.com/abrarShariar/NumConverter) !!
+
 [Download the application](https://github.com/abrarShariar/NumberConverter-App/archive/master.zip)
 
 I know there are lots of tools available online for conversion between number system but I wanted to make a small and handy one for myself 
