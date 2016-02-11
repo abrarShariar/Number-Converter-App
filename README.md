@@ -3,7 +3,12 @@ A Qt (C++) application for number conversion [decimal, hexaddecimal, binary, oct
 
 **NOTE:** This repository contains only the release version of the app. Check out the [Source Code](https://github.com/abrarShariar/NumConverter) !!
 
+**UPDATE:** The app now comes with a mini calculator for performing addition,subtraction,multiplication,division in all the four supported number system.
+
 [Download the application](https://github.com/abrarShariar/NumberConverter-App/archive/master.zip)
+
+
+
 
 I know there are lots of tools available online for conversion between number system but I wanted to make a small and handy one for myself 
 so came up with this. <br>
