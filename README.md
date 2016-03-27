@@ -7,7 +7,9 @@ A Qt (C++) application for number conversion [decimal, hexaddecimal, binary, oct
 
 [Download the application](https://github.com/abrarShariar/NumberConverter-App/archive/master.zip)
 
+###Preview
 
+![app preview](https://raw.githubusercontent.com/abrarShariar/NumConverter/master/converter.jpg)
 
 
 I know there are lots of tools available online for conversion between number system but I wanted to make a small and handy one for myself 
